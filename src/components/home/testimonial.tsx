@@ -62,6 +62,8 @@ const HomeTestimonial: FC = () => {
     nextArrow: <SliderArrow type="next" />,
   }
 
+  return null;
+
   // return (
   // <Box id="testimonial" sx={{ pb: { xs: 6, md: 10 }, backgroundColor: 'background.paper' }}>
   //   <Container>
